@@ -1,39 +1,40 @@
-Interactive Quiz Application
+Interactive Quiz Application 🧠🎯
 
-This is a simple interactive Quiz Application built using HTML, CSS, and JavaScript.
-Users can answer multiple-choice questions, and at the end, the quiz calculates the total score and shows the result based on the user's answers.
+This is a simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 
-This project helped me to practice core JavaScript concepts like DOM manipulation, event handling, dynamic updates, and conditional rendering based on user interaction.
+Users can answer multiple-choice questions, and at the end, the quiz calculates the total score and displays the result based on the user's performance.
 
-The UI is clean, fully responsive, and user-friendly.
+This project helped me practice important JavaScript concepts like DOM manipulation, event handling, dynamic updates, and conditional rendering based on user interaction.
 
-Features
-Displays multiple questions one by one
+The UI is clean, fully responsive, and designed for a smooth user experience.
 
-Calculates and displays the final score
+Features ✨
+- Displays multiple questions one after another
+- Calculates and displays the final score
+- Responsive design for mobile and desktop devices
+- Dynamic result based on user's score
+- Real-time feedback after quiz submission
 
-Responsive design for mobile and desktop
+Technologies Used 🛠️
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-Dynamic result based on user's score
+Live Demo 🌐
 
-Real-time feedback after quiz submission
+👉 [Live Demo Link]()  
 
-Technologies Used
-HTML5
+GitHub Repository 📂
 
-CSS3
+👉 [GitHub Repo Link](https://github.com/Vishwanathangit/Interactive-Quiz.git)
 
-JavaScript (Vanilla)
+How to Run 🚀
 
-Live Demo
-Live Demo Link ()
+1. Clone this repository:
+   git clone https://github.com/Vishwanathangit/Interactive-Quiz.git
+  
+2. Navigate to the project folder.
 
-GitHub Repository
-GitHub Repo Link (https://github.com/Vishwanathangit/Interactive-Quiz.git)
+3. Open the index.html file in your browser.
 
-How to Run
-Clone this repository
-
-Open the index.html file in your browser
-
-Start playing the quiz!
+4. Start playing and test your knowledge!
